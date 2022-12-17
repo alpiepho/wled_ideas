@@ -8,6 +8,15 @@ I was able to get this working with a little effort.  The two biggest hurdles we
 
 I was also hesitent because I wanted to understand the bigger concepts of WLED before I blindly started installing software.
 
+## My HW
+- WS2812 5V 150 count - https://www.amazon.com/gp/product/B07BH37JGC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
+- Adafruit QT Py ESP32 Pico - WiFi Dev Board with STEMMA QT - https://www.adafruit.com/product/5395
+- Adafruit NeoPixel Driver BFF Add-On for QT Py and Xiao - https://www.adafruit.com/product/5645
+- IR (Infrared) Receiver Sensor - https://www.adafruit.com/product/157
+- (found) 24 key RGB like - https://www.amazon.com/QIACHIP-Controller-24-Key-Wireless-Control/dp/B07TVBWLSV/ref=sr_1_17?crid=1Q5Q1DK5TRXXS&keywords=controller+with+24+key+remote+for+12v+rgb+led+strip+light&qid=1671291413&s=hi&sprefix=24+key+rgb+LED%2Ctools%2C170&sr=1-17
+
+
+
 ## WLED Concepts
 
 
