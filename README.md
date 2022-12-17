@@ -8,6 +8,8 @@ I was able to get this working with a little effort.  The two biggest hurdles we
 
 I was also hesitent because I wanted to understand the bigger concepts of WLED before I blindly started installing software.
 
+I did need to install new driver, then connected to "wserial*" instead of "serail*".  That should make sense when you see it.
+
 ## My HW
 - WS2812 5V 150 count - https://www.amazon.com/gp/product/B07BH37JGC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 - Adafruit QT Py ESP32 Pico - WiFi Dev Board with STEMMA QT - https://www.adafruit.com/product/5395
@@ -28,4 +30,5 @@ I was also hesitent because I wanted to understand the bigger concepts of WLED b
 
 - https://learn.adafruit.com/neopixel-remote-ir-control-with-wled/overview
 - https://github.com/Aircoookie/WLED
-
+- Adafruit QT Py ESP32 Pico: Pinouts - https://learn.adafruit.com/assets/112309
+- Driver for Mac - https://learn.adafruit.com/how-to-install-drivers-for-wch-usb-to-serial-chips-ch9102f-ch9102/mac-driver-installation
