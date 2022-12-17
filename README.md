@@ -23,6 +23,29 @@ Then used this page to install the release version: https://install.wled.me/
 
 ## WLED Concepts
 
+TBD
+
+## Rough Ideas and Questions
+
+- 192.168.1.6
+
+- [ ] how to get back to Access Point only?
+- [ ] config test, cyle pins?
+- [ ] any use for zephyros or freertos, temp issue
+- [ ] what was thought with wsm branch?  effects? (fx?)
+- [ ] add css
+- [ ] add my wrap concept
+    - [ ] pole
+    - [ ] box
+    - [ ] board
+    - [ ] calc for scoreboard
+    - [ ] calc for billboard/words/ scrolling
+- [ ] site as a pwa?
+    - [ ] any thing special about wled- [ ]app
+        - [ ] how communicate
+        - [ ] how it works
+        - [ ] try on android
+
 
 
 
@@ -38,4 +61,6 @@ Then used this page to install the release version: https://install.wled.me/
 - https://kno.wled.ge/
 - https://kno.wled.ge/advanced/compiling-wled/
 - https://components101.com/diodes/tsop38238-ir-receiver
+- https://docs.platformio.org/en/latest/integration/ide/vscode.html
+
 
