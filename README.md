@@ -37,4 +37,5 @@ Then used this page to install the release version: https://install.wled.me/
 - https://install.wled.me/
 - https://kno.wled.ge/
 - https://kno.wled.ge/advanced/compiling-wled/
+- https://components101.com/diodes/tsop38238-ir-receiver
 
