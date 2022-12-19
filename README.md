@@ -41,7 +41,7 @@ TBD
     - [ ] calc for scoreboard
     - [ ] calc for billboard/words/ scrolling
 - [ ] site as a pwa?
-    - [ ] any thing special about wled- [ ]app
+    - [ ] any thing special about wled-app
         - [ ] how communicate
         - [ ] how it works
         - [ ] try on android
